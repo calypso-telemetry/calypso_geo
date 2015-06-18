@@ -1,0 +1,11 @@
+% -*- mode: Erlang;-*-
+{application, calypso_geo,
+ [
+  {description, "Calypso GEO helpers."},
+  {vsn, "1"},
+  {modules, []},
+  {registered, []},
+  {applications, [ kernel, stdlib, lager ]},
+  {env, []}
+ ]}.
+
