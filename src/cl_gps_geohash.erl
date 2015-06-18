@@ -1,5 +1,5 @@
 -module(cl_gps_geohash).
--author("begemot").
+-author("Sergey Loguntsov").
 
 -include("gps.hrl").
 

@@ -1,5 +1,5 @@
 -module(cl_gps_hilbert_hash).
--author("begemot").
+-author("Sergey Loguntsov").
 
 %% API
 -export([

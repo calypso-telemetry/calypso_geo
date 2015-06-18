@@ -1,5 +1,5 @@
 -module(cl_gps).
--author("begemot").
+-author("Sergey Loguntsov").
 
 -include("gps.hrl").
 
